@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: 'Arial';
+    font-size: 18px;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+img {
+    width: 300px;
+    margin: 0 auto;
+    margin-left: 40%;
+}
+
+header, section, footer {
+    padding: 10px 30px;
+}
+
+input {
+    margin-bottom: 15px;
+}
+
+footer {
+    margin-top: 30px;
+    background-color: #ffa8cf;
+}
